@@ -1,0 +1,47 @@
+/* Text colors */
+.text-primary {
+  color: $primary-color;
+}
+
+.text-secondary {
+  color: $secondary-color;
+}
+
+.text-dark {
+  color: $dark-color;
+}
+
+.text-light {
+  color: $light-color;
+}
+
+/* Text sizes */
+.lead {
+  font-size: 20px;
+}
+
+.sm {
+  font-size: 1rem;
+}
+
+.md {
+  font-size: 2rem;
+}
+
+.lg {
+  font-size: 3rem;
+}
+
+.xl {
+  font-size: 4rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.ihover:hover {
+  opacity: 0.5;
+}
+
+
